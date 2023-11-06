@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awrgb&show_icons=true&locale=en" alt="awrbg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awrgb&" alt="ashutosh-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awrgb&" alt="awrgb" /></p>
