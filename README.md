@@ -1,4 +1,4 @@
-![👋 Hi, my name is Abdul Wasea](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![👋 Hi, my name is Abdul Wasea](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
