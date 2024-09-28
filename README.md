@@ -13,13 +13,13 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center">
   <a href="mailto:abdulwasea853@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+    <img width="40" height="40" src="https://img.icons8.com/arcade/50/gmail.png" alt="gmail"/>
   </a> 
   <a href="https://github.com/awrgb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/100/github.png" alt="github"/>
   </a> 
   <a href="https://www.linkedin.com/in/abdul-wasea-964757305/" target="_blank">
-    <img src="/LinkedIn-Blue-14@2x.png" height="20" style="margin-right: 4px">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/100/linkedin.png" alt="linkedin"/>
   </a>
 </p>
 
