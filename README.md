@@ -18,8 +18,8 @@
   <a href="https://github.com/awrgb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a> 
-  <a href="[[https://www.linkedin.com/in/abdul-wasea-964757305](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png)](https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  <a href="https://www.linkedin.com/in/abdul-wasea-964757305/" target="_blank">
+    <img src="/LinkedIn-Blue-14@2x.png" height="20" style="margin-right: 4px">
   </a>
 </p>
 
